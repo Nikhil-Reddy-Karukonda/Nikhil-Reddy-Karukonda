@@ -1,3 +1,7 @@
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+</div>
+
 # 💫 About Me:
 👋 Hi there! I'm currently pursuing my Master's in Software Engineering from Northeastern University.<br>💻 As a software engineer, I focus on delivering scalable, cloud-based solutions.<br>🌱 Currently delving deeper into the realm of cloud architectures and distributed computing.<br>
 
