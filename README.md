@@ -1,7 +1,6 @@
 # 💫 About Me:
 👋 Hi there! I'm currently pursuing my Master's in Software Engineering from Northeastern University.<br>💻 As a software engineer, I focus on delivering scalable, cloud-based solutions.<br>🌱 Currently delving deeper into the realm of cloud architectures and distributed computing.<br>
 
-- 😄 Pronouns: He/Him
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/nikhil-reddy-karukonda) 
 
