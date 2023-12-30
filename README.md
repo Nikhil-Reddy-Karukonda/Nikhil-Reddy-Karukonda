@@ -1,6 +1,6 @@
-<div id="header" align="center">
+<!-- <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
-</div>
+</div> -->
 
 # 💫 About Me:
 👋 <b>Hello!</b> I'm currently pursuing a Master's degree in Software Engineering from Northeastern University.
