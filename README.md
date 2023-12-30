@@ -5,11 +5,11 @@
 # 💫 About Me:
 👋 <b>Hello!</b> I'm currently pursuing a Master's degree in Software Engineering from Northeastern University.
 <br>💻 As a software engineer, I am committed to delivering scalable cloud-native solutions.
-<br>☁️ Delving deeper into cloud architectures and distributed computing.
+<br>☁️ Currently Delving deeper into cloud architectures and distributed computing.
 <br>🗃️ Focused on designing efficient database systems and developing full-stack web applications.
 <br>🔧 Proficient in automating CI/CD pipelines and adept at troubleshooting complex issues.
 <br>🐳 Skilled in containerization tools like Docker and Kubernetes.
-<br>🛠️ Experienced with Terraform IaC for AWS infrastructure automation.
+<br>🛠️ Experience with Terraform IaC for AWS infrastructure automation.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/nikhil-reddy-karukonda) 
