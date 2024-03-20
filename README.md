@@ -7,7 +7,7 @@
 <br>💻 As a software engineer, I am committed to delivering scalable cloud-native solutions.
 <br>☁️ Currently delving deeper into cloud architectures and distributed computing.
 <br>🗃️ I've designed efficient database systems and developed full-stack web applications.
-<br>🔧 Proficient in automating CI/CD pipelines and adept at troubleshooting complex issues.
+<br>🔧 Proficient in automating CI/CD pipelines and adept at troubleshooting complex production incidents.
 <br>🐳 Skilled in containerization tools like Docker and Kubernetes.
 <br>🛠️ Experience with Terraform IaC for AWS infrastructure automation.
 
