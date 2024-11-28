@@ -6,7 +6,7 @@
 👋 <b>Hello!</b> I'm a passionate software engineer with a Master's in Software Engineering from Northeastern University.
 <br>💻 I specialize in developing scalable cloud-native solutions and deploying large-scale distributed systems.
 <br>🚀 Skilled in building real-time data pipelines, enhancing observability, and ensuring high availability of systems.
-<br>🛠️ Proficient in Terraform IaC for infrastructure automation, containerization with Docker and Kubernetes, and building efficient CI/CD pipelines.
+<br>🛠️ Proficient in Terraform IaC, containerization with Docker and Kubernetes, and building efficient CI/CD pipelines.
 
 
 ## 🌐 Socials:
