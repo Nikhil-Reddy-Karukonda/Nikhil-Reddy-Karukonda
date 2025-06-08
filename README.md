@@ -3,7 +3,7 @@
 </div> -->
 
 # 💫 About Me:
-👋 </b> Hello! I'm a Software Engineer on the **Cloud Platforms** team at **Yahoo**, where I build tools and infrastructure to **optimize cloud costs ** and **reduce security alerts** at scale.
+👋 </b> Hello! I'm a Software Engineer on the **Cloud Platforms** team at **Yahoo**, where I build tools and infrastructure to **optimize cloud costs** and **reduce security alerts** at scale.
 <br>💻 I design and develop **scalable, cloud-native solutions** and deploy large-scale **distributed systems** to drive platform efficiency.
 <br>🚀 Skilled in building real-time data pipelines to improve **observability**, and ensure high system reliability.
 <br>🛠️ Proficient in **Terraform**(IaC), containerization with **Docker** and **Kubernetes**, and building efficient CI/CD pipelines.
