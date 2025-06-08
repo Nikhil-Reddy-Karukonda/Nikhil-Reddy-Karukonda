@@ -3,10 +3,10 @@
 </div> -->
 
 # 💫 About Me:
-👋 <b>Hello!</b> I'm a passionate software engineer with a Master's in Software Engineering from Northeastern University.
-<br>💻 I specialize in developing scalable cloud-native solutions and deploying large-scale distributed systems.
-<br>🚀 Skilled in building real-time data pipelines to enhance observability, and ensure high system reliability.
-<br>🛠️ Proficient in Terraform IaC, containerization with Docker and Kubernetes, and building efficient CI/CD pipelines.
+👋 </b> Hello! I'm a Software Engineer on the Cloud Platforms team at **Yahoo**, where I build tools and infrastructure to optimize cloud costs and reduce security alerts at scale.
+<br>💻 I design and develop scalable, cloud-native solutions and deploy large-scale distributed systems to drive platform efficiency.
+<br>🚀 Skilled in building real-time data pipelines to improve observability, and ensure high system reliability.
+<br>🛠️ Proficient in Terraform(IaC), containerization with Docker and Kubernetes, and building efficient CI/CD pipelines.
 
 
 ## 🌐 Socials:
