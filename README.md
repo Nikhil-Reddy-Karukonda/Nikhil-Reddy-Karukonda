@@ -3,9 +3,9 @@
 </div> -->
 
 # 💫 About Me:
-👋 </b> Hello! I'm a Software Engineer at **Yahoo** on the ☁️ **Cloud Platforms Engineering** team
-<br>🛠️ Building tools and infrastructure to 📉 **optimize cloud costs** 💸 and **reduce org-wide security alerts** 🚨
-<br>💻 Designing and developing **scalable, cloud-native solutions** and deploy large-scale **distributed systems** 🕸️ to drive platform efficiency
+👋 </b> Hello! I'm a Software Engineer at **Yahoo** on the ☁️ **Cloud Platforms Engineering** Developer Control Plane team
+<br>🛠️ Building developer tooling and infrastructure to 📉 **optimize cloud spend** 💸 and **reduce org-wide security alerts** 🚨 and boost developer productivity at global scale
+<br>💻 Designing and developing **scalable, cloud-native solutions** and deploy large-scale **distributed systems** 🕸️ to drive platform efficiency and cloud governance
 <br>🚀 Skilled in building real-time data pipelines to improve **observability**, and ensure high system reliability.
 <br>🛠️ Proficient in **Terraform**(IaC), containerization with **Docker** 🐳 and **Kubernetes** ☸️, and building efficient CI/CD pipelines.
 
