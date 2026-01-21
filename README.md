@@ -4,7 +4,7 @@
 
 Hey, I'm Nikhil 👋
 Software Engineer II @ Yahoo | Cloud Platforms Engineering | Developer Control Plane
-<br> I build backend systems, developer tools, observability, and cloud-native infrastructure at scale with a focus on observability.
+<br> I build backend systems, developer tools, and cloud-native infrastructure at scale with a focus on observability.
 <br> Fascinated by distributed systems—how they scale, fail, and recover—and enjoy debugging them to improve performance and reliability.
 
 ## 🌐 Socials:
