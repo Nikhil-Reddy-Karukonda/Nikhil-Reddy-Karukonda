@@ -4,7 +4,8 @@
 
 Hey, I'm Nikhil 👋
 Software Engineer II @ Yahoo | Cloud Platforms Engineering | Developer Control Plane
-I build backend systems, developer tools, and cloud-native infrastructure at scale. Fascinated by distributed systems—how they scale, fail, and recover—and enjoy debugging them to improve performance and reliability.
+<br> I build backend systems, developer tools, observability, and cloud-native infrastructure at scale with a focus on observability.
+<br> Fascinated by distributed systems—how they scale, fail, and recover—and enjoy debugging them to improve performance and reliability.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/nikhil-reddy-karukonda) 
